@@ -1,7 +1,7 @@
 
 #add impplemetation
 def add(x,y):
-    pass
+    return x+y
 
 # subtarct implementation
 def subtract(x,y):
